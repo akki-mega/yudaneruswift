@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "925970209F99657920C6355D865CE43697040900",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "925970209F99657920C6355D865CE43697040900" : 0,
+    "A7DFE5FE1DFA4F38AF84D2D5858F5AB52B4C8CA8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D0708B5E-1FEF-486D-AFF9-DB4B2EE15D96",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "925970209F99657920C6355D865CE43697040900" : "yudaneruswift\/",
+    "A7DFE5FE1DFA4F38AF84D2D5858F5AB52B4C8CA8" : "yudaneruswift\/yudaneruswift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ゆだねるくん",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ゆだねるくん.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akki-mega\/yudaneruswift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "925970209F99657920C6355D865CE43697040900"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akki-mega\/yudaneruswift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7DFE5FE1DFA4F38AF84D2D5858F5AB52B4C8CA8"
+    }
+  ]
+}
